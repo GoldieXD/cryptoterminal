@@ -1,20 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="32ea2af9-7641-4467-8107-77cd6b3b9906" name="Changes" comment="" />
+    <list default="true" id="32ea2af9-7641-4467-8107-77cd6b3b9906" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/node_modules/@types/react/index.d.ts" root0="SKIP_INSPECTION" />
+  </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8,
-  "fromUser": false
-}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.6560390101145877" />
+      <entry key="MS500" value="4.64394469277693" />
+      <entry key="S2" value="12.008334282258373" />
+      <entry key="S5" value="20.113478857292684" />
+      <entry key="S10" value="26.5331678694676" />
+      <entry key="S30" value="34.69054469632222" />
+      <entry key="S60" value="43.45833957033754" />
+      <entry key="M2" value="62.27511773094375" />
+      <entry key="M5" value="99.30164950554759" />
+      <entry key="M10" value="129.55939509353766" />
+      <entry key="M15" value="145.76981283367607" />
+      <entry key="M30" value="167.79678085174953" />
+      <entry key="H1" value="181.96565400558967" />
+      <entry key="H2" value="190.08007876803393" />
+      <entry key="H4" value="194.43310546567298" />
+      <entry key="D1" value="198.22343373947527" />
+      <entry key="W1" value="198.88867677974906" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="3.0760033611320447E-180" />
+      <entry key="S5" value="1.5674683936278613E-72" />
+      <entry key="S10" value="1.2558127052928737E-36" />
+      <entry key="S30" value="1.2342824544481006E-12" />
+      <entry key="S60" value="1.433761218077076E-6" />
+      <entry key="M2" value="0.0016478683377805503" />
+      <entry key="M5" value="0.11598453802223392" />
+      <entry key="M10" value="0.4810731034398664" />
+      <entry key="M15" value="0.7733424393857462" />
+      <entry key="M30" value="1.2434971323464181" />
+      <entry key="H1" value="1.576969725085477" />
+      <entry key="H2" value="1.7759190525108886" />
+      <entry key="H4" value="1.8846282802985326" />
+      <entry key="D1" value="1.980291660236216" />
+      <entry key="W1" value="1.997172545752965" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.5917822922318117" />
+      <entry key="MS500" value="4.609848870378203" />
+      <entry key="S2" value="11.984873669157771" />
+      <entry key="S5" value="20.09657120322518" />
+      <entry key="S10" value="26.521413462884748" />
+      <entry key="S30" value="34.68509777152765" />
+      <entry key="S60" value="43.454404473491316" />
+      <entry key="M2" value="62.272906968828096" />
+      <entry key="M5" value="99.4097668940819" />
+      <entry key="M10" value="130.0276239275" />
+      <entry key="M15" value="146.52978707277205" />
+      <entry key="M30" value="169.02967549516944" />
+      <entry key="H1" value="183.53591634840944" />
+      <entry key="H2" value="191.85222190431017" />
+      <entry key="H4" value="196.31573003279493" />
+      <entry key="D1" value="200.20337443331996" />
+      <entry key="W1" value="200.8857987580411" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3LLLPsvoowmUb4PD0Wixur6HDJk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,17 +100,41 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
     "javascript.preferred.runtime.type.id": "node",
+    "js.debugger.nextJs.config.created.client": "true",
+    "js.debugger.nextJs.config.created.server": "true",
+    "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external"
+    "npm.Next.js: server-side.executor": "Run",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/Users/goldiexd/Developer/Projects/cryptoterminal/node_modules/typescript/lib"
   }
 }]]></component>
+  <component name="RunManager" selected="npm.Next.js: server-side">
+    <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration name="Next.js: server-side" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -50,7 +149,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1793228382298</updated>
-      <workItem from="1793228382892" duration="321000" />
+      <workItem from="1793228382892" duration="1518000" />
+      <workItem from="1793229923997" duration="1298000" />
     </task>
     <servers />
   </component>
