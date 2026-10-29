@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="208" viewBox="0 0 760 208" role="img" aria-labelledby="title desc">
+  <title id="title">CryptoTerminal — transparent logo</title>
+  <desc id="desc">Editable CryptoTerminal wordmark and vector CT monogram on a transparent background. Intended for dark surfaces.</desc>
+<g transform="translate(24 14)"><g id="ct-monogram" fill="none" stroke-linecap="square" stroke-linejoin="miter">
+    <path id="letter-c" d="M83 35H48L25 58V110L48 133H83" stroke="#26E6CE" stroke-width="18"/>
+    <path id="letter-t" d="M79 35H151M115 35V104" stroke="#58D9FF" stroke-width="18"/>
+    <g id="market-candles" stroke="#26E6CE" stroke-width="4">
+      <path d="M96 119V148M126 104V137M156 76V116"/>
+    </g>
+    <g id="candle-bodies" fill="#26E6CE" stroke="none">
+      <path d="M89 125H103V139H89Z"/>
+      <path d="M119 113H133V128H119Z"/>
+      <path d="M149 87H163V106H149Z"/>
+    </g>
+  </g></g>
+<g id="editable-wordmark" fill="#F2F7FC" font-family="Inter, Arial, Helvetica, sans-serif" font-size="58" letter-spacing="-2">
+    <text x="222" y="106" font-weight="700">Crypto<tspan font-weight="400" fill="#58D9FF">Terminal</tspan></text>
+  </g>
+</svg>
